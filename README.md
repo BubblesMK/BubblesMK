@@ -28,6 +28,7 @@ You can explore them in my pinned repositories below.
 - Build a polished portfolio showcasing real, working projects  
 - Continue leveling up through consistent practice and curiosity  
 - Eventually expand into frameworks like **React** once my core skills are solid
+- Continue building my knowledge and skills in mobile-first, responsive front-end development
 
 ---
 
