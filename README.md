@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mandisa — Web Developer
+# 👋 Hi, I'm Mandisa — Future Web Developer
 
 I'm a passionate and persistent learner transitioning into web development.  
 Right now, I'm sharpening my **HTML**, **CSS**, and **JavaScript** skills through hands-on projects, class assignments, and personal experiments. My goal is to build clean, accessible, user-friendly interfaces that make people’s lives easier.
