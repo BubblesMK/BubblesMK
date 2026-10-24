@@ -1,16 +1,17 @@
-# 👋 Hi, I'm Mandisa — Future Web Developer
+# 👋 Hi, I'm Mandisa — FAspiring UI/UX Designer
 
-I'm a passionate and persistent learner transitioning into web development.  
-Right now, I'm sharpening my **HTML**, **CSS**, and **JavaScript** skills through hands-on projects, class assignments, and personal experiments. My goal is to build clean, accessible, user-friendly interfaces that make people’s lives easier.
+I’m a curious, persistent learner moving into UI/UX design with a developer’s toolkit. I’m learning HTML, CSS, and JavaScript so I can design interfaces and bring them to life in code, creating experiences that are clean, accessible, and genuinely easy to use.
+
+I believe good design starts with empathy: understanding how people think, what frustrates them, and how a thoughtful interface can make their day a little easier.
 
 ---
 
 ## 🚀 What I'm Working On
-- Strengthening my **HTML, CSS, and JavaScript** fundamentals  
-- Building small interactive projects to grow my portfolio  
-- Improving layout skills with **Flexbox** and **CSS Grid**  
-- Practicing DOM manipulation and beginner-level JS logic  
-- Creating organized, readable code I can be proud of
+Learning how layout, hierarchy, and spacing shape the user experience
+Building responsive, mobile-first interfaces with Flexbox and CSS Grid
+Turning design ideas into interactive prototypes with JavaScript
+Practicing accessibility and usability best practices
+Writing clean, organized code that supports polished design
 
 ---
 
@@ -24,11 +25,11 @@ You can explore them in my pinned repositories below.
 ---
 
 ## 🎯 My Goals
-- Become a **Web Developer** with strong UI fundamentals  
-- Build a polished portfolio showcasing real, working projects  
-- Continue leveling up through consistent practice and curiosity  
-- Eventually expand into frameworks like **React** once my core skills are solid
-- Continue building my knowledge and skills in mobile-first, responsive front-end development
+Grow into a UI/UX Designer who understands both design and front-end development
+Build a portfolio that shows my process, from research and wireframes to working prototypes
+Learn design tools like Figma and practice user research, wireframing, and usability testing
+Deepen my knowledge of accessibility, responsive design, and design systems
+Eventually explore frameworks like React to collaborate smoothly with development teams
 
 ---
 
