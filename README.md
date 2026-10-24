@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mandisa — FAspiring UI/UX Designer
+# 👋 Hi, I'm Mandisa — Aspiring UI/UX Designer
 
 I’m a curious, persistent learner moving into UI/UX design with a developer’s toolkit. I’m learning HTML, CSS, and JavaScript so I can design interfaces and bring them to life in code, creating experiences that are clean, accessible, and genuinely easy to use.
 
